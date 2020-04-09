@@ -2,6 +2,7 @@ This repository contains code for the Kaggle competition [COVID-19 Open Research
 
 ## Approaches
 Right now only one, later a second more involved one.
+Link to corresponing notebook on [kaggle](https://www.kaggle.com/n3xtvision/riskfactors-patternmatching) (WIP)
 
 ###  Pattern Matching
 First basic approach to get used to the data format is based on pattern matching via regex.
